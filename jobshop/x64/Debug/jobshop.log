@@ -1,0 +1,3 @@
+﻿  funcoes.c
+C:\Users\leone\source\repos\jobshop\funcoes.c(167,1): warning C4029: lista de parâmetros formais declarada diferente da definição
+  jobshop.vcxproj -> C:\Users\leone\source\repos\jobshop\x64\Debug\jobshop.exe
